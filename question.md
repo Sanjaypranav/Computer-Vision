@@ -21,4 +21,4 @@ Train an R-CNN stop sign object detector using a CNN network trained with CIFAR-
 
 ## 3) Question - 3 Histogram Equailizer 
 
-![opencv](https://docs.opencv.org/3.4/d4/d1b/tutorial_histogram_equalization.html)
+[click to read more](https://docs.opencv.org/3.4/d4/d1b/tutorial_histogram_equalization.html)
